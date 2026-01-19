@@ -1,0 +1,9 @@
+logs/
+reports/
+data/
+*.log
+*.csv
+*.xlsx
+__pycache__/
+venv/
+.env
