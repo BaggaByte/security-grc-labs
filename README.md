@@ -70,7 +70,7 @@ security-grc-labs/
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/security-grc-labs.git
+git clone https://github.com/BaggaByte/security-grc-labs.git
 cd security-grc-labs
 
 # Create and activate a virtual environment (optional but recommended)
@@ -127,7 +127,6 @@ python iso27001_check.py               # Run the automated ISO 27001 control map
 
 By connecting Kibana to your Elasticsearch indices (`grc-risk-register` and `grc-evidence`), you can build continuous compliance dashboards.
 
-*(Placeholder: Add your Kibana Dashboard Screenshots here)*
 - **Risk Overview:** Shows risk distribution by category, owner, and impact.
 - **Compliance Gaps:** Highlights critical risks lacking sufficient evidence over time.
 
