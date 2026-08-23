@@ -1,5 +1,0 @@
-2026-01-19 00:36:00.996005 | High-Risk Alert: Risk ID: RISK-001, Name: Unauthorized Access, Category: Security, Impact: 5, Likelihood: 4, Owner: IT, Status: Open
-2026-01-19 00:36:00.996504 | High-Risk Alert: Risk ID: TEST-003, Name: Post-Shard-Fix Test, Category: Security, Impact: 4, Likelihood: 3, Owner: IT, Status: Open
-2026-01-19 00:36:00.996602 | High-Risk Alert: Risk ID: RISK-003, Name: Unauthorized access to logs, Category: Information Security, Impact: 4, Likelihood: 3, Owner: Security Team, Status: Open
-2026-01-19 00:36:00.996700 | High-Risk Alert: Risk ID: RISK-002, Name: Data Loss, Category: Operational, Impact: 4, Likelihood: 3, Owner: Ops, Status: Open
-2026-01-19 00:36:00.996740 | High-Risk Alert: Risk ID: RISK-003, Name: Regulatory Non-Compliance, Category: Compliance, Impact: 5, Likelihood: 2, Owner: Legal, Status: Open

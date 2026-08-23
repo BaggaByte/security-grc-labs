@@ -1,31 +1,26 @@
-# -----------------------------
 # Python
-# -----------------------------
 venv/
 __pycache__/
 *.pyc
 
-# -----------------------------
-# Secrets & Credentials
-# -----------------------------
+# Environment secrets
 .env
-*.pem
-*.key
-*.crt
 
-# -----------------------------
-# Logs & Reports
-# -----------------------------
-logs/
+# Logs
 *.log
+logs/
 reports/
-*.csv
-*.xlsx
 
-# -----------------------------
-# OS / Editor files
-# -----------------------------
-.DS_Store
-Thumbs.db
+# Excel / reports
+*.xlsx
+*.csv
+*.pdf
+~$*
+
+# IDE
 .vscode/
 .idea/
+
+# OS
+.DS_Store
+Thumbs.db

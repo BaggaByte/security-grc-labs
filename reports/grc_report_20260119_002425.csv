@@ -1,6 +1,0 @@
-risk_id,risk_name,risk_category,impact,likelihood,owner,status,created_at,risk_score,evidence_count,alert
-TEST-003,Post-Shard-Fix Test,Security,4,3,IT,Open,2026-01-18T17:32:43.850456+00:00,,0,HIGH-IMPACT MISSING EVIDENCE
-RISK-003,Unauthorized access to logs,Information Security,4,3,Security Team,Open,2026-01-18T17:46:21.636278+00:00,12.0,1,
-RISK-001,Unauthorized Access,Security,5,4,IT,Open,2026-01-18T18:41:34.579022+00:00,,1,
-RISK-002,Data Loss,Operational,4,3,Ops,Open,2026-01-18T18:41:34.579033+00:00,,1,
-RISK-003,Regulatory Non-Compliance,Compliance,5,2,Legal,Open,2026-01-18T18:41:34.579035+00:00,,1,
